@@ -3,7 +3,8 @@
 随机更新
 
 ## TODO
-- [ ] 正常使用osu-cursor
+- [x] 正常使用osu-cursor
+- [ ] 继续学习
 
 ## 版权
 网页内自定义光标来自 [osu-cursor](https://github.com/solstice23/osu-cursor)
