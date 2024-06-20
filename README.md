@@ -18,5 +18,8 @@
 动力大爆发，习得html和css基本语法，成功导入自定义光标  
 也差不多弄懂了github的基本使用方法
 
+### 2024.6.20 8:11 A.M.
+为期一周的各种繁琐事结束了，最近好忙，看情况学了
+
 ## 引用
 网页内自定义光标来自 [osu-cursor](https://github.com/solstice23/osu-cursor)
